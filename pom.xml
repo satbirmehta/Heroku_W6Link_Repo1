@@ -74,11 +74,11 @@
 			<artifactId>nekohtml</artifactId>
 			<version>1.9.21</version>
 		</dependency>
-	<!--  	<dependency>
+	    <dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
 			<version>9.4-1206-jdbc42</version>
-		</dependency>  -->
+		</dependency>
 
 
 		<!-- old are below here -->
